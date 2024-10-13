@@ -1,0 +1,15 @@
+D:\DaiHoc\HK7\NoSQL\DA\QLCD\QL_CongDan\DAL_QLCD\bin\Debug\net8.0\DAL_QLCD.deps.json
+D:\DaiHoc\HK7\NoSQL\DA\QLCD\QL_CongDan\DAL_QLCD\bin\Debug\net8.0\DAL_QLCD.dll
+D:\DaiHoc\HK7\NoSQL\DA\QLCD\QL_CongDan\DAL_QLCD\bin\Debug\net8.0\DAL_QLCD.pdb
+D:\DaiHoc\HK7\NoSQL\DA\QLCD\QL_CongDan\DAL_QLCD\bin\Debug\net8.0\DTO_QLCD.dll
+D:\DaiHoc\HK7\NoSQL\DA\QLCD\QL_CongDan\DAL_QLCD\bin\Debug\net8.0\DTO_QLCD.pdb
+D:\DaiHoc\HK7\NoSQL\DA\QLCD\QL_CongDan\DAL_QLCD\obj\Debug\net8.0\DAL_QLCD.csproj.AssemblyReference.cache
+D:\DaiHoc\HK7\NoSQL\DA\QLCD\QL_CongDan\DAL_QLCD\obj\Debug\net8.0\DAL_QLCD.GeneratedMSBuildEditorConfig.editorconfig
+D:\DaiHoc\HK7\NoSQL\DA\QLCD\QL_CongDan\DAL_QLCD\obj\Debug\net8.0\DAL_QLCD.AssemblyInfoInputs.cache
+D:\DaiHoc\HK7\NoSQL\DA\QLCD\QL_CongDan\DAL_QLCD\obj\Debug\net8.0\DAL_QLCD.AssemblyInfo.cs
+D:\DaiHoc\HK7\NoSQL\DA\QLCD\QL_CongDan\DAL_QLCD\obj\Debug\net8.0\DAL_QLCD.csproj.CoreCompileInputs.cache
+D:\DaiHoc\HK7\NoSQL\DA\QLCD\QL_CongDan\DAL_QLCD\obj\Debug\net8.0\DAL_QLCD.csproj.Up2Date
+D:\DaiHoc\HK7\NoSQL\DA\QLCD\QL_CongDan\DAL_QLCD\obj\Debug\net8.0\DAL_QLCD.dll
+D:\DaiHoc\HK7\NoSQL\DA\QLCD\QL_CongDan\DAL_QLCD\obj\Debug\net8.0\refint\DAL_QLCD.dll
+D:\DaiHoc\HK7\NoSQL\DA\QLCD\QL_CongDan\DAL_QLCD\obj\Debug\net8.0\DAL_QLCD.pdb
+D:\DaiHoc\HK7\NoSQL\DA\QLCD\QL_CongDan\DAL_QLCD\obj\Debug\net8.0\ref\DAL_QLCD.dll

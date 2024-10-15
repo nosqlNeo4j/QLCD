@@ -72,12 +72,14 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="AddressDAL.cs" />
     <Compile Include="Connection_Neo4J.cs" />
     <Compile Include="DAL_CongDan.cs" />
     <Compile Include="DAL_CongViec.cs" />
     <Compile Include="DAL_DiaChi.cs" />
     <Compile Include="DAL_TruongHoc.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="RelationshipDAL.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="app.config" />

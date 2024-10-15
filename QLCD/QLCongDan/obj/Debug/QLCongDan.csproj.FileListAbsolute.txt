@@ -36,3 +36,43 @@ D:\DaiHoc\HK7\NoSQL\DA\QLCD\QLCD\QLCongDan\bin\Debug\System.ValueTuple.xml
 D:\DaiHoc\HK7\NoSQL\DA\QLCD\QLCD\QLCongDan\obj\Debug\QLCongDan.csproj.Up2Date
 D:\DaiHoc\HK7\NoSQL\DA\QLCD\QLCD\QLCongDan\obj\Debug\QLCongDan.exe
 D:\DaiHoc\HK7\NoSQL\DA\QLCD\QLCD\QLCongDan\obj\Debug\QLCongDan.pdb
+C:\Users\HP\OneDrive\Máy tính\Do_an_NoSql_Nhom13\QLCD\QLCD\QLCongDan\obj\Debug\QLCongDan.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Máy tính\Do_an_NoSql_Nhom13\QLCD\QLCD\QLCongDan\obj\Debug\QLCongDan.frmTruongHoc.resources
+C:\Users\HP\OneDrive\Máy tính\Do_an_NoSql_Nhom13\QLCD\QLCD\QLCongDan\obj\Debug\QLCongDan.Properties.Resources.resources
+C:\Users\HP\OneDrive\Máy tính\Do_an_NoSql_Nhom13\QLCD\QLCD\QLCongDan\obj\Debug\QLCongDan.csproj.GenerateResource.cache
+C:\Users\HP\OneDrive\Máy tính\Do_an_NoSql_Nhom13\QLCD\QLCD\QLCongDan\obj\Debug\QLCongDan.exe
+C:\Users\HP\OneDrive\Máy tính\Do_an_NoSql_Nhom13\QLCD\QLCD\QLCongDan\obj\Debug\QLCongDan.pdb
+C:\Users\HP\OneDrive\Máy tính\Do_an_NoSql_Nhom13\QLCD\QLCD\QLCongDan\obj\Debug\QLCongDan.frmQL_Address.resources
+C:\Users\HP\OneDrive\Máy tính\Do_an_NoSql_Nhom13\QLCD\QLCD\QLCongDan\obj\Debug\QLCongDan.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Máy tính\Do_an_NoSql_Nhom13\QLCD\QLCD\QLCongDan\obj\Debug\QLCongDan.frmQL_Mqh.resources
+C:\Users\HP\OneDrive\Máy tính\Do_an_NoSql_Nhom13\QLCD\QLCD\QLCongDan\bin\Debug\QLCongDan.exe.config
+C:\Users\HP\OneDrive\Máy tính\Do_an_NoSql_Nhom13\QLCD\QLCD\QLCongDan\bin\Debug\QLCongDan.exe
+C:\Users\HP\OneDrive\Máy tính\Do_an_NoSql_Nhom13\QLCD\QLCD\QLCongDan\bin\Debug\QLCongDan.pdb
+C:\Users\HP\OneDrive\Máy tính\Do_an_NoSql_Nhom13\QLCD\QLCD\QLCongDan\bin\Debug\BUS_QLCD.dll
+C:\Users\HP\OneDrive\Máy tính\Do_an_NoSql_Nhom13\QLCD\QLCD\QLCongDan\bin\Debug\DAL_QLCD.dll
+C:\Users\HP\OneDrive\Máy tính\Do_an_NoSql_Nhom13\QLCD\QLCD\QLCongDan\bin\Debug\DTO_QLCD.dll
+C:\Users\HP\OneDrive\Máy tính\Do_an_NoSql_Nhom13\QLCD\QLCD\QLCongDan\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\HP\OneDrive\Máy tính\Do_an_NoSql_Nhom13\QLCD\QLCD\QLCongDan\bin\Debug\Neo4j.Driver.dll
+C:\Users\HP\OneDrive\Máy tính\Do_an_NoSql_Nhom13\QLCD\QLCD\QLCongDan\bin\Debug\System.Buffers.dll
+C:\Users\HP\OneDrive\Máy tính\Do_an_NoSql_Nhom13\QLCD\QLCD\QLCongDan\bin\Debug\System.IO.Pipelines.dll
+C:\Users\HP\OneDrive\Máy tính\Do_an_NoSql_Nhom13\QLCD\QLCD\QLCongDan\bin\Debug\System.Memory.dll
+C:\Users\HP\OneDrive\Máy tính\Do_an_NoSql_Nhom13\QLCD\QLCD\QLCongDan\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\HP\OneDrive\Máy tính\Do_an_NoSql_Nhom13\QLCD\QLCD\QLCongDan\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\HP\OneDrive\Máy tính\Do_an_NoSql_Nhom13\QLCD\QLCD\QLCongDan\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\HP\OneDrive\Máy tính\Do_an_NoSql_Nhom13\QLCD\QLCD\QLCongDan\bin\Debug\System.ValueTuple.dll
+C:\Users\HP\OneDrive\Máy tính\Do_an_NoSql_Nhom13\QLCD\QLCD\QLCongDan\bin\Debug\BUS_QLCD.pdb
+C:\Users\HP\OneDrive\Máy tính\Do_an_NoSql_Nhom13\QLCD\QLCD\QLCongDan\bin\Debug\BUS_QLCD.dll.config
+C:\Users\HP\OneDrive\Máy tính\Do_an_NoSql_Nhom13\QLCD\QLCD\QLCongDan\bin\Debug\DAL_QLCD.pdb
+C:\Users\HP\OneDrive\Máy tính\Do_an_NoSql_Nhom13\QLCD\QLCD\QLCongDan\bin\Debug\DAL_QLCD.dll.config
+C:\Users\HP\OneDrive\Máy tính\Do_an_NoSql_Nhom13\QLCD\QLCD\QLCongDan\bin\Debug\DTO_QLCD.pdb
+C:\Users\HP\OneDrive\Máy tính\Do_an_NoSql_Nhom13\QLCD\QLCD\QLCongDan\bin\Debug\DTO_QLCD.dll.config
+C:\Users\HP\OneDrive\Máy tính\Do_an_NoSql_Nhom13\QLCD\QLCD\QLCongDan\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\HP\OneDrive\Máy tính\Do_an_NoSql_Nhom13\QLCD\QLCD\QLCongDan\bin\Debug\Neo4j.Driver.xml
+C:\Users\HP\OneDrive\Máy tính\Do_an_NoSql_Nhom13\QLCD\QLCD\QLCongDan\bin\Debug\System.Buffers.xml
+C:\Users\HP\OneDrive\Máy tính\Do_an_NoSql_Nhom13\QLCD\QLCD\QLCongDan\bin\Debug\System.IO.Pipelines.xml
+C:\Users\HP\OneDrive\Máy tính\Do_an_NoSql_Nhom13\QLCD\QLCD\QLCongDan\bin\Debug\System.Memory.xml
+C:\Users\HP\OneDrive\Máy tính\Do_an_NoSql_Nhom13\QLCD\QLCD\QLCongDan\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\HP\OneDrive\Máy tính\Do_an_NoSql_Nhom13\QLCD\QLCD\QLCongDan\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\HP\OneDrive\Máy tính\Do_an_NoSql_Nhom13\QLCD\QLCD\QLCongDan\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\HP\OneDrive\Máy tính\Do_an_NoSql_Nhom13\QLCD\QLCD\QLCongDan\bin\Debug\System.ValueTuple.xml
+C:\Users\HP\OneDrive\Máy tính\Do_an_NoSql_Nhom13\QLCD\QLCD\QLCongDan\obj\Debug\QLCongDan.csproj.CopyComplete

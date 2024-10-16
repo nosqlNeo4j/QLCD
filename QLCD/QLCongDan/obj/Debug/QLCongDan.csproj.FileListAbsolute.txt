@@ -36,3 +36,6 @@ D:\DaiHoc\HK7\NoSQL\DA\QLCD\QLCD\QLCongDan\bin\Debug\System.ValueTuple.xml
 D:\DaiHoc\HK7\NoSQL\DA\QLCD\QLCD\QLCongDan\obj\Debug\QLCongDan.csproj.Up2Date
 D:\DaiHoc\HK7\NoSQL\DA\QLCD\QLCD\QLCongDan\obj\Debug\QLCongDan.exe
 D:\DaiHoc\HK7\NoSQL\DA\QLCD\QLCD\QLCongDan\obj\Debug\QLCongDan.pdb
+D:\DaiHoc\HK7\NoSQL\DA\QLCD\QLCD\QLCongDan\obj\Debug\QLCongDan.frmThongKe.resources
+D:\DaiHoc\HK7\NoSQL\DA\QLCD\QLCD\QLCongDan\obj\Debug\QLCongDan.csproj.ResolveComReference.cache
+D:\DaiHoc\HK7\NoSQL\DA\QLCD\QLCD\QLCongDan\obj\Debug\QLCongDan.frmMain.resources

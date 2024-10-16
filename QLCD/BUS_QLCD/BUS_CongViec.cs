@@ -12,9 +12,9 @@ namespace BUS_QLCD
     {
         private DAL_CongViec _jobDAL = new DAL_CongViec();
 
-        public List<DTO_CongViec> GetAllJobs()
+        public async Task<List<DTO_CongViec>> GetAllJobsAsync()
         {
-            return _jobDAL.GetAllJobs();
+            return await _jobDAL.GetAllJobsAsync();
         }
 
         public void AddJob(DTO_CongViec job)

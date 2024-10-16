@@ -12,9 +12,9 @@ namespace BUS_QLCD
     {
         private DAL_DiaChi _addressDAL = new DAL_DiaChi();
 
-        public List<DTO_DiaChi> GetAllAddresses()
+        public async Task<List<DTO_DiaChi>> GetAllAddressesAsync()
         {
-            return _addressDAL.GetAllAddresses();
+            return await _addressDAL.GetAllAddressesAsync();
         }
 
         public void AddAddress(DTO_DiaChi address)

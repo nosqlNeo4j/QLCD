@@ -12,9 +12,9 @@ namespace BUS_QLCD
     {
         private DAL_CongDan _citizenDAL = new DAL_CongDan();
 
-        public List<DTO_NguoiDan> GetAllCitizens()
+        public async Task<List<DTO_NguoiDan>> GetAllCitizensAsync()
         {
-            return _citizenDAL.GetAllCitizens();
+            return await _citizenDAL.GetAllCitizensAsync();
         }
 
         public void AddCitizen(DTO_NguoiDan citizen)

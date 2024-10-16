@@ -83,12 +83,36 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="AddCitizenForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddCitizenForm.Designer.cs">
+      <DependentUpon>AddCitizenForm.cs</DependentUpon>
+    </Compile>
     <Compile Include="ConvertUltil.cs" />
+    <Compile Include="frmCongDan_CongViec.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCongDan_CongViec.Designer.cs">
+      <DependentUpon>frmCongDan_CongViec.cs</DependentUpon>
+    </Compile>
     <Compile Include="frmMain.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="frmMain.Designer.cs">
       <DependentUpon>frmMain.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmQL_Address.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmQL_Address.designer.cs">
+      <DependentUpon>frmQL_Address.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmQL_Mqh.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmQL_Mqh.designer.cs">
+      <DependentUpon>frmQL_Mqh.cs</DependentUpon>
     </Compile>
     <Compile Include="frmThongKe.cs">
       <SubType>Form</SubType>
@@ -102,17 +126,38 @@
     <Compile Include="frmTruongHoc.Designer.cs">
       <DependentUpon>frmTruongHoc.cs</DependentUpon>
     </Compile>
+    <Compile Include="modifyCitizenForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="modifyCitizenForm.Designer.cs">
+      <DependentUpon>modifyCitizenForm.cs</DependentUpon>
+    </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="WordExport.cs" />
+    <EmbeddedResource Include="AddCitizenForm.resx">
+      <DependentUpon>AddCitizenForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCongDan_CongViec.resx">
+      <DependentUpon>frmCongDan_CongViec.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="frmMain.resx">
       <DependentUpon>frmMain.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmQL_Address.resx">
+      <DependentUpon>frmQL_Address.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmQL_Mqh.resx">
+      <DependentUpon>frmQL_Mqh.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="frmThongKe.resx">
       <DependentUpon>frmThongKe.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="frmTruongHoc.resx">
       <DependentUpon>frmTruongHoc.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="modifyCitizenForm.resx">
+      <DependentUpon>modifyCitizenForm.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>

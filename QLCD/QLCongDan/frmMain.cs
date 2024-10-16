@@ -26,14 +26,13 @@ namespace QLCongDan
             fr.Show();
         }
 
-        private void côngDânToolStripMenuItem_Click(object sender, EventArgs e)
-        {
-
-        }
-
         private void địaChỉToolStripMenuItem_Click(object sender, EventArgs e)
         {
-
+            frmQL_Address fr = new frmQL_Address();
+            fr.MdiParent = this;
+            fr.FormBorderStyle = FormBorderStyle.None;
+            fr.Dock = DockStyle.Fill;
+            fr.Show();
         }
 
         private void trườngHọcToolStripMenuItem_Click(object sender, EventArgs e)
@@ -45,14 +44,22 @@ namespace QLCongDan
             fr.Show();
         }
 
-        private void côngViệcToolStripMenuItem_Click(object sender, EventArgs e)
-        {
-
-        }
-
         private void mốiQuanHệToolStripMenuItem_Click(object sender, EventArgs e)
         {
+            frmQL_Mqh fr = new frmQL_Mqh();
+            fr.MdiParent = this;
+            fr.FormBorderStyle = FormBorderStyle.None;
+            fr.Dock = DockStyle.Fill;
+            fr.Show();
+        }
 
+        private void côngDânCôngViệcToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            frmCongDan_CongViec fr = new frmCongDan_CongViec();
+            fr.MdiParent = this;
+            fr.FormBorderStyle = FormBorderStyle.None;
+            fr.Dock = DockStyle.Fill;
+            fr.Show();
         }
     }
 }

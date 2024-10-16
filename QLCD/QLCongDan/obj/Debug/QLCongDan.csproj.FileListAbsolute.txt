@@ -36,3 +36,11 @@ D:\DaiHoc\HK7\NoSQL\DA\QLCD\QLCD\QLCongDan\bin\Debug\System.ValueTuple.xml
 D:\DaiHoc\HK7\NoSQL\DA\QLCD\QLCD\QLCongDan\obj\Debug\QLCongDan.csproj.Up2Date
 D:\DaiHoc\HK7\NoSQL\DA\QLCD\QLCD\QLCongDan\obj\Debug\QLCongDan.exe
 D:\DaiHoc\HK7\NoSQL\DA\QLCD\QLCD\QLCongDan\obj\Debug\QLCongDan.pdb
+D:\Study\DANOSQL\QLCD_new_pull\QLCD\QLCD\QLCongDan\obj\Debug\QLCongDan.csproj.AssemblyReference.cache
+D:\Study\DANOSQL\QLCD_new_pull\QLCD\QLCD\QLCongDan\obj\Debug\GUI_QLCD.AddCitizenForm.resources
+D:\Study\DANOSQL\QLCD_new_pull\QLCD\QLCD\QLCongDan\obj\Debug\GUI_QLCD.Form1.resources
+D:\Study\DANOSQL\QLCD_new_pull\QLCD\QLCD\QLCongDan\obj\Debug\QLCongDan.frmTruongHoc.resources
+D:\Study\DANOSQL\QLCD_new_pull\QLCD\QLCD\QLCongDan\obj\Debug\GUI_QLCD.modifyCitizenForm.resources
+D:\Study\DANOSQL\QLCD_new_pull\QLCD\QLCD\QLCongDan\obj\Debug\QLCongDan.Properties.Resources.resources
+D:\Study\DANOSQL\QLCD_new_pull\QLCD\QLCD\QLCongDan\obj\Debug\QLCongDan.csproj.GenerateResource.cache
+D:\Study\DANOSQL\QLCD_new_pull\QLCD\QLCD\QLCongDan\obj\Debug\QLCongDan.csproj.CoreCompileInputs.cache

@@ -30,3 +30,5 @@ D:\DaiHoc\HK7\NoSQL\DA\QLCD\QLCD\BUS_QLCD\obj\Debug\BUS_QLCD.csproj.CoreCompileI
 D:\DaiHoc\HK7\NoSQL\DA\QLCD\QLCD\BUS_QLCD\obj\Debug\BUS_QLCD.csproj.Up2Date
 D:\DaiHoc\HK7\NoSQL\DA\QLCD\QLCD\BUS_QLCD\obj\Debug\BUS_QLCD.dll
 D:\DaiHoc\HK7\NoSQL\DA\QLCD\QLCD\BUS_QLCD\obj\Debug\BUS_QLCD.pdb
+D:\Study\DANOSQL\QLCD_new_pull\QLCD\QLCD\BUS_QLCD\obj\Debug\BUS_QLCD.csproj.AssemblyReference.cache
+D:\Study\DANOSQL\QLCD_new_pull\QLCD\QLCD\BUS_QLCD\obj\Debug\BUS_QLCD.csproj.CoreCompileInputs.cache

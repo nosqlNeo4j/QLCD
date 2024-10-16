@@ -1,30 +1,66 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\DaiHoc\\HK7\\NoSQL\\DA\\QLCD\\QLCD\\",
+  "WorkspaceRootPath": "D:\\Study\\DANOSQL\\QLCD_new_pull\\QLCD\\QLCD\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{972FE095-A182-4FD5-A020-45DF943507F5}|QLCongDan\\QLCongDan.csproj|d:\\daihoc\\hk7\\nosql\\da\\qlcd\\qlcd\\qlcongdan\\frmtruonghoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BE544907-9BA4-4E95-91E8-E581E5630FF2}|DTO_QLCD\\DTO_QLCD.csproj|d:\\study\\danosql\\qlcd_new_pull\\qlcd\\qlcd\\dto_qlcd\\dto_congviec.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE544907-9BA4-4E95-91E8-E581E5630FF2}|DTO_QLCD\\DTO_QLCD.csproj|solutionrelative:dto_qlcd\\dto_congviec.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{972FE095-A182-4FD5-A020-45DF943507F5}|QLCongDan\\QLCongDan.csproj|d:\\study\\danosql\\qlcd_new_pull\\qlcd\\qlcd\\qlcongdan\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{972FE095-A182-4FD5-A020-45DF943507F5}|QLCongDan\\QLCongDan.csproj|solutionrelative:qlcongdan\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{972FE095-A182-4FD5-A020-45DF943507F5}|QLCongDan\\QLCongDan.csproj|d:\\study\\danosql\\qlcd_new_pull\\qlcd\\qlcd\\qlcongdan\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{972FE095-A182-4FD5-A020-45DF943507F5}|QLCongDan\\QLCongDan.csproj|solutionrelative:qlcongdan\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7224A466-F7F5-40EA-9736-376FDE2FA9EF}|DAL_QLCD\\DAL_QLCD.csproj|d:\\study\\danosql\\qlcd_new_pull\\qlcd\\qlcd\\dal_qlcd\\dal_congdan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7224A466-F7F5-40EA-9736-376FDE2FA9EF}|DAL_QLCD\\DAL_QLCD.csproj|solutionrelative:dal_qlcd\\dal_congdan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE544907-9BA4-4E95-91E8-E581E5630FF2}|DTO_QLCD\\DTO_QLCD.csproj|d:\\study\\danosql\\qlcd_new_pull\\qlcd\\qlcd\\dto_qlcd\\dto_nguoidan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE544907-9BA4-4E95-91E8-E581E5630FF2}|DTO_QLCD\\DTO_QLCD.csproj|solutionrelative:dto_qlcd\\dto_nguoidan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3AC80F2-06EB-47CA-AFBC-C3C76FA1896B}|BUS_QLCD\\BUS_QLCD.csproj|d:\\study\\danosql\\qlcd_new_pull\\qlcd\\qlcd\\bus_qlcd\\bus_congdan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3AC80F2-06EB-47CA-AFBC-C3C76FA1896B}|BUS_QLCD\\BUS_QLCD.csproj|solutionrelative:bus_qlcd\\bus_congdan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3AC80F2-06EB-47CA-AFBC-C3C76FA1896B}|BUS_QLCD\\BUS_QLCD.csproj|d:\\study\\danosql\\qlcd_new_pull\\qlcd\\qlcd\\bus_qlcd\\bus_congviec.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3AC80F2-06EB-47CA-AFBC-C3C76FA1896B}|BUS_QLCD\\BUS_QLCD.csproj|solutionrelative:bus_qlcd\\bus_congviec.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7224A466-F7F5-40EA-9736-376FDE2FA9EF}|DAL_QLCD\\DAL_QLCD.csproj|d:\\study\\danosql\\qlcd_new_pull\\qlcd\\qlcd\\dal_qlcd\\dal_congviec.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7224A466-F7F5-40EA-9736-376FDE2FA9EF}|DAL_QLCD\\DAL_QLCD.csproj|solutionrelative:dal_qlcd\\dal_congviec.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{972FE095-A182-4FD5-A020-45DF943507F5}|QLCongDan\\QLCongDan.csproj|D:\\Study\\DANOSQL\\QLCD_new_pull\\QLCD\\QLCD\\qlcongdan\\frmtruonghoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{972FE095-A182-4FD5-A020-45DF943507F5}|QLCongDan\\QLCongDan.csproj|solutionrelative:qlcongdan\\frmtruonghoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{972FE095-A182-4FD5-A020-45DF943507F5}|QLCongDan\\QLCongDan.csproj|d:\\daihoc\\hk7\\nosql\\da\\qlcd\\qlcd\\qlcongdan\\frmtruonghoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{972FE095-A182-4FD5-A020-45DF943507F5}|QLCongDan\\QLCongDan.csproj|solutionrelative:qlcongdan\\frmtruonghoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7224A466-F7F5-40EA-9736-376FDE2FA9EF}|DAL_QLCD\\DAL_QLCD.csproj|d:\\daihoc\\hk7\\nosql\\da\\qlcd\\qlcd\\dal_qlcd\\connection_neo4j.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7224A466-F7F5-40EA-9736-376FDE2FA9EF}|DAL_QLCD\\DAL_QLCD.csproj|solutionrelative:dal_qlcd\\connection_neo4j.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7224A466-F7F5-40EA-9736-376FDE2FA9EF}|DAL_QLCD\\DAL_QLCD.csproj|d:\\daihoc\\hk7\\nosql\\da\\qlcd\\qlcd\\dal_qlcd\\dal_truonghoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7224A466-F7F5-40EA-9736-376FDE2FA9EF}|DAL_QLCD\\DAL_QLCD.csproj|D:\\Study\\DANOSQL\\QLCD_new_pull\\QLCD\\QLCD\\dal_qlcd\\dal_truonghoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7224A466-F7F5-40EA-9736-376FDE2FA9EF}|DAL_QLCD\\DAL_QLCD.csproj|solutionrelative:dal_qlcd\\dal_truonghoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B3AC80F2-06EB-47CA-AFBC-C3C76FA1896B}|BUS_QLCD\\BUS_QLCD.csproj|d:\\daihoc\\hk7\\nosql\\da\\qlcd\\qlcd\\bus_qlcd\\bus_truonghoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7224A466-F7F5-40EA-9736-376FDE2FA9EF}|DAL_QLCD\\DAL_QLCD.csproj|D:\\Study\\DANOSQL\\QLCD_new_pull\\QLCD\\QLCD\\dal_qlcd\\connection_neo4j.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7224A466-F7F5-40EA-9736-376FDE2FA9EF}|DAL_QLCD\\DAL_QLCD.csproj|solutionrelative:dal_qlcd\\connection_neo4j.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{972FE095-A182-4FD5-A020-45DF943507F5}|QLCongDan\\QLCongDan.csproj|D:\\Study\\DANOSQL\\QLCD_new_pull\\QLCD\\QLCD\\qlcongdan\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{972FE095-A182-4FD5-A020-45DF943507F5}|QLCongDan\\QLCongDan.csproj|solutionrelative:qlcongdan\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3AC80F2-06EB-47CA-AFBC-C3C76FA1896B}|BUS_QLCD\\BUS_QLCD.csproj|D:\\Study\\DANOSQL\\QLCD_new_pull\\QLCD\\QLCD\\bus_qlcd\\bus_truonghoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B3AC80F2-06EB-47CA-AFBC-C3C76FA1896B}|BUS_QLCD\\BUS_QLCD.csproj|solutionrelative:bus_qlcd\\bus_truonghoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{972FE095-A182-4FD5-A020-45DF943507F5}|QLCongDan\\QLCongDan.csproj|d:\\daihoc\\hk7\\nosql\\da\\qlcd\\qlcd\\qlcongdan\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{972FE095-A182-4FD5-A020-45DF943507F5}|QLCongDan\\QLCongDan.csproj|D:\\Study\\DANOSQL\\QLCD_new_pull\\QLCD\\QLCD\\qlcongdan\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{972FE095-A182-4FD5-A020-45DF943507F5}|QLCongDan\\QLCongDan.csproj|solutionrelative:qlcongdan\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{972FE095-A182-4FD5-A020-45DF943507F5}|QLCongDan\\QLCongDan.csproj|D:\\Study\\DANOSQL\\QLCD_new_pull\\QLCD\\QLCD\\qlcongdan\\frmtruonghoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{972FE095-A182-4FD5-A020-45DF943507F5}|QLCongDan\\QLCongDan.csproj|solutionrelative:qlcongdan\\frmtruonghoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -37,81 +73,193 @@
           "SelectedChildIndex": 4,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Connection_Neo4J.cs",
-              "DocumentMoniker": "D:\\DaiHoc\\HK7\\NoSQL\\DA\\QLCD\\QLCD\\DAL_QLCD\\Connection_Neo4J.cs",
-              "RelativeDocumentMoniker": "DAL_QLCD\\Connection_Neo4J.cs",
-              "ToolTip": "D:\\DaiHoc\\HK7\\NoSQL\\DA\\QLCD\\QLCD\\DAL_QLCD\\Connection_Neo4J.cs",
-              "RelativeToolTip": "DAL_QLCD\\Connection_Neo4J.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAiwDgAAAARAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\Study\\DANOSQL\\QLCD_new_pull\\QLCD\\QLCD\\QLCongDan\\Form1.cs",
+              "RelativeDocumentMoniker": "QLCongDan\\Form1.cs",
+              "ToolTip": "D:\\Study\\DANOSQL\\QLCD_new_pull\\QLCD\\QLCD\\QLCongDan\\Form1.cs",
+              "RelativeToolTip": "QLCongDan\\Form1.cs",
+              "ViewState": "AgIAAJEAAAAAAAAAAAAwwKMAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-15T19:56:24.549Z",
+              "WhenOpened": "2024-10-16T09:51:31.498Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "DAL_TruongHoc.cs",
-              "DocumentMoniker": "D:\\DaiHoc\\HK7\\NoSQL\\DA\\QLCD\\QLCD\\DAL_QLCD\\DAL_TruongHoc.cs",
-              "RelativeDocumentMoniker": "DAL_QLCD\\DAL_TruongHoc.cs",
-              "ToolTip": "D:\\DaiHoc\\HK7\\NoSQL\\DA\\QLCD\\QLCD\\DAL_QLCD\\DAL_TruongHoc.cs",
-              "RelativeToolTip": "DAL_QLCD\\DAL_TruongHoc.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAowBkAAAAMAAAAAAAAAA==",
+              "DocumentIndex": 6,
+              "Title": "BUS_CongViec.cs",
+              "DocumentMoniker": "D:\\Study\\DANOSQL\\QLCD_new_pull\\QLCD\\QLCD\\BUS_QLCD\\BUS_CongViec.cs",
+              "RelativeDocumentMoniker": "BUS_QLCD\\BUS_CongViec.cs",
+              "ToolTip": "D:\\Study\\DANOSQL\\QLCD_new_pull\\QLCD\\QLCD\\BUS_QLCD\\BUS_CongViec.cs",
+              "RelativeToolTip": "BUS_QLCD\\BUS_CongViec.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD0AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-15T19:59:14.246Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "BUS_TruongHoc.cs",
-              "DocumentMoniker": "D:\\DaiHoc\\HK7\\NoSQL\\DA\\QLCD\\QLCD\\BUS_QLCD\\BUS_TruongHoc.cs",
-              "RelativeDocumentMoniker": "BUS_QLCD\\BUS_TruongHoc.cs",
-              "ToolTip": "D:\\DaiHoc\\HK7\\NoSQL\\DA\\QLCD\\QLCD\\BUS_QLCD\\BUS_TruongHoc.cs",
-              "RelativeToolTip": "BUS_QLCD\\BUS_TruongHoc.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAowA4AAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-15T19:59:02.478Z",
+              "WhenOpened": "2024-10-16T09:49:16.035Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\DaiHoc\\HK7\\NoSQL\\DA\\QLCD\\QLCD\\QLCongDan\\Program.cs",
-              "RelativeDocumentMoniker": "QLCongDan\\Program.cs",
-              "ToolTip": "D:\\DaiHoc\\HK7\\NoSQL\\DA\\QLCD\\QLCD\\QLCongDan\\Program.cs",
-              "RelativeToolTip": "QLCongDan\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAsAAAAAAAAAA==",
+              "Title": "BUS_CongDan.cs",
+              "DocumentMoniker": "D:\\Study\\DANOSQL\\QLCD_new_pull\\QLCD\\QLCD\\BUS_QLCD\\BUS_CongDan.cs",
+              "RelativeDocumentMoniker": "BUS_QLCD\\BUS_CongDan.cs",
+              "ToolTip": "D:\\Study\\DANOSQL\\QLCD_new_pull\\QLCD\\QLCD\\BUS_QLCD\\BUS_CongDan.cs",
+              "RelativeToolTip": "BUS_QLCD\\BUS_CongDan.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-15T19:55:37.925Z",
+              "WhenOpened": "2024-10-16T09:46:55.468Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "frmTruongHoc.cs",
-              "DocumentMoniker": "D:\\DaiHoc\\HK7\\NoSQL\\DA\\QLCD\\QLCD\\QLCongDan\\frmTruongHoc.cs",
-              "RelativeDocumentMoniker": "QLCongDan\\frmTruongHoc.cs",
-              "ToolTip": "D:\\DaiHoc\\HK7\\NoSQL\\DA\\QLCD\\QLCD\\QLCongDan\\frmTruongHoc.cs",
-              "RelativeToolTip": "QLCongDan\\frmTruongHoc.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAtwCMAAAA9AAAAAAAAAA==",
+              "Title": "DTO_CongViec.cs",
+              "DocumentMoniker": "D:\\Study\\DANOSQL\\QLCD_new_pull\\QLCD\\QLCD\\DTO_QLCD\\DTO_CongViec.cs",
+              "RelativeDocumentMoniker": "DTO_QLCD\\DTO_CongViec.cs",
+              "ToolTip": "D:\\Study\\DANOSQL\\QLCD_new_pull\\QLCD\\QLCD\\DTO_QLCD\\DTO_CongViec.cs",
+              "RelativeToolTip": "DTO_QLCD\\DTO_CongViec.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-15T19:55:07.861Z",
+              "WhenOpened": "2024-10-16T09:43:07.956Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "frmTruongHoc.cs [Design]",
-              "DocumentMoniker": "D:\\DaiHoc\\HK7\\NoSQL\\DA\\QLCD\\QLCD\\QLCongDan\\frmTruongHoc.cs",
+              "DocumentIndex": 4,
+              "Title": "DTO_NguoiDan.cs",
+              "DocumentMoniker": "D:\\Study\\DANOSQL\\QLCD_new_pull\\QLCD\\QLCD\\DTO_QLCD\\DTO_NguoiDan.cs",
+              "RelativeDocumentMoniker": "DTO_QLCD\\DTO_NguoiDan.cs",
+              "ToolTip": "D:\\Study\\DANOSQL\\QLCD_new_pull\\QLCD\\QLCD\\DTO_QLCD\\DTO_NguoiDan.cs",
+              "RelativeToolTip": "DTO_QLCD\\DTO_NguoiDan.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T09:42:44.632Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DAL_CongDan.cs",
+              "DocumentMoniker": "D:\\Study\\DANOSQL\\QLCD_new_pull\\QLCD\\QLCD\\DAL_QLCD\\DAL_CongDan.cs",
+              "RelativeDocumentMoniker": "DAL_QLCD\\DAL_CongDan.cs",
+              "ToolTip": "D:\\Study\\DANOSQL\\QLCD_new_pull\\QLCD\\QLCD\\DAL_QLCD\\DAL_CongDan.cs",
+              "RelativeToolTip": "DAL_QLCD\\DAL_CongDan.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAADwvxAAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T09:40:32.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\Study\\DANOSQL\\QLCD_new_pull\\QLCD\\QLCD\\QLCongDan\\Form1.cs",
+              "RelativeDocumentMoniker": "QLCongDan\\Form1.cs",
+              "ToolTip": "D:\\Study\\DANOSQL\\QLCD_new_pull\\QLCD\\QLCD\\QLCongDan\\Form1.cs [Design]",
+              "RelativeToolTip": "QLCongDan\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T09:40:22.018Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DAL_CongViec.cs",
+              "DocumentMoniker": "D:\\Study\\DANOSQL\\QLCD_new_pull\\QLCD\\QLCD\\DAL_QLCD\\DAL_CongViec.cs",
+              "RelativeDocumentMoniker": "DAL_QLCD\\DAL_CongViec.cs",
+              "ToolTip": "D:\\Study\\DANOSQL\\QLCD_new_pull\\QLCD\\QLCD\\DAL_QLCD\\DAL_CongViec.cs",
+              "RelativeToolTip": "DAL_QLCD\\DAL_CongViec.cs",
+              "ViewState": "AgIAAG8AAAAAAAAAAAAIwI4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T06:14:35.358Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "frmMain.cs [Design]",
+              "DocumentMoniker": "D:\\Study\\DANOSQL\\QLCD_new_pull\\QLCD\\QLCD\\QLCongDan\\frmMain.cs",
+              "RelativeDocumentMoniker": "QLCongDan\\frmMain.cs",
+              "ToolTip": "D:\\Study\\DANOSQL\\QLCD_new_pull\\QLCD\\QLCD\\QLCongDan\\frmMain.cs [Design]",
+              "RelativeToolTip": "QLCongDan\\frmMain.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T20:15:32.189Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Connection_Neo4J.cs",
+              "DocumentMoniker": "D:\\Study\\DANOSQL\\QLCD_new_pull\\QLCD\\QLCD\\DAL_QLCD\\Connection_Neo4J.cs",
+              "RelativeDocumentMoniker": "DAL_QLCD\\Connection_Neo4J.cs",
+              "ToolTip": "D:\\Study\\DANOSQL\\QLCD_new_pull\\QLCD\\QLCD\\DAL_QLCD\\Connection_Neo4J.cs",
+              "RelativeToolTip": "DAL_QLCD\\Connection_Neo4J.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T19:56:24.549Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DAL_TruongHoc.cs",
+              "DocumentMoniker": "D:\\Study\\DANOSQL\\QLCD_new_pull\\QLCD\\QLCD\\DAL_QLCD\\DAL_TruongHoc.cs",
+              "RelativeDocumentMoniker": "DAL_QLCD\\DAL_TruongHoc.cs",
+              "ToolTip": "D:\\Study\\DANOSQL\\QLCD_new_pull\\QLCD\\QLCD\\DAL_QLCD\\DAL_TruongHoc.cs",
+              "RelativeToolTip": "DAL_QLCD\\DAL_TruongHoc.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAADwvxkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T19:59:14.246Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "BUS_TruongHoc.cs",
+              "DocumentMoniker": "D:\\Study\\DANOSQL\\QLCD_new_pull\\QLCD\\QLCD\\BUS_QLCD\\BUS_TruongHoc.cs",
+              "RelativeDocumentMoniker": "BUS_QLCD\\BUS_TruongHoc.cs",
+              "ToolTip": "D:\\Study\\DANOSQL\\QLCD_new_pull\\QLCD\\QLCD\\BUS_QLCD\\BUS_TruongHoc.cs",
+              "RelativeToolTip": "BUS_QLCD\\BUS_TruongHoc.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T19:59:02.478Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Study\\DANOSQL\\QLCD_new_pull\\QLCD\\QLCD\\QLCongDan\\Program.cs",
+              "RelativeDocumentMoniker": "QLCongDan\\Program.cs",
+              "ToolTip": "D:\\Study\\DANOSQL\\QLCD_new_pull\\QLCD\\QLCD\\QLCongDan\\Program.cs",
+              "RelativeToolTip": "QLCongDan\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T19:55:37.925Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "frmTruongHoc.cs",
+              "DocumentMoniker": "D:\\Study\\DANOSQL\\QLCD_new_pull\\QLCD\\QLCD\\QLCongDan\\frmTruongHoc.cs",
               "RelativeDocumentMoniker": "QLCongDan\\frmTruongHoc.cs",
-              "ToolTip": "D:\\DaiHoc\\HK7\\NoSQL\\DA\\QLCD\\QLCD\\QLCongDan\\frmTruongHoc.cs [Design]",
+              "ToolTip": "D:\\Study\\DANOSQL\\QLCD_new_pull\\QLCD\\QLCD\\QLCongDan\\frmTruongHoc.cs",
+              "RelativeToolTip": "QLCongDan\\frmTruongHoc.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwDMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T19:55:07.861Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "frmTruongHoc.cs [Design]",
+              "DocumentMoniker": "D:\\Study\\DANOSQL\\QLCD_new_pull\\QLCD\\QLCD\\QLCongDan\\frmTruongHoc.cs",
+              "RelativeDocumentMoniker": "QLCongDan\\frmTruongHoc.cs",
+              "ToolTip": "D:\\Study\\DANOSQL\\QLCD_new_pull\\QLCD\\QLCD\\QLCongDan\\frmTruongHoc.cs [Design]",
               "RelativeToolTip": "QLCongDan\\frmTruongHoc.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-15T19:53:25.311Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-10-15T19:53:25.311Z"
             }
           ]
         }

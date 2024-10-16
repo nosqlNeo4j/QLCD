@@ -3,28 +3,12 @@
   "WorkspaceRootPath": "D:\\DaiHoc\\HK7\\NoSQL\\DA\\QLCD\\QLCD\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{972FE095-A182-4FD5-A020-45DF943507F5}|QLCongDan\\QLCongDan.csproj|d:\\daihoc\\hk7\\nosql\\da\\qlcd\\qlcd\\qlcongdan\\frmtruonghoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{972FE095-A182-4FD5-A020-45DF943507F5}|QLCongDan\\QLCongDan.csproj|solutionrelative:qlcongdan\\frmtruonghoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{972FE095-A182-4FD5-A020-45DF943507F5}|QLCongDan\\QLCongDan.csproj|d:\\daihoc\\hk7\\nosql\\da\\qlcd\\qlcd\\qlcongdan\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{972FE095-A182-4FD5-A020-45DF943507F5}|QLCongDan\\QLCongDan.csproj|solutionrelative:qlcongdan\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{972FE095-A182-4FD5-A020-45DF943507F5}|QLCongDan\\QLCongDan.csproj|d:\\daihoc\\hk7\\nosql\\da\\qlcd\\qlcd\\qlcongdan\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{972FE095-A182-4FD5-A020-45DF943507F5}|QLCongDan\\QLCongDan.csproj|solutionrelative:qlcongdan\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{972FE095-A182-4FD5-A020-45DF943507F5}|QLCongDan\\QLCongDan.csproj|d:\\daihoc\\hk7\\nosql\\da\\qlcd\\qlcd\\qlcongdan\\frmtruonghoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{972FE095-A182-4FD5-A020-45DF943507F5}|QLCongDan\\QLCongDan.csproj|solutionrelative:qlcongdan\\frmtruonghoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7224A466-F7F5-40EA-9736-376FDE2FA9EF}|DAL_QLCD\\DAL_QLCD.csproj|d:\\daihoc\\hk7\\nosql\\da\\qlcd\\qlcd\\dal_qlcd\\connection_neo4j.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7224A466-F7F5-40EA-9736-376FDE2FA9EF}|DAL_QLCD\\DAL_QLCD.csproj|solutionrelative:dal_qlcd\\connection_neo4j.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7224A466-F7F5-40EA-9736-376FDE2FA9EF}|DAL_QLCD\\DAL_QLCD.csproj|d:\\daihoc\\hk7\\nosql\\da\\qlcd\\qlcd\\dal_qlcd\\dal_truonghoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7224A466-F7F5-40EA-9736-376FDE2FA9EF}|DAL_QLCD\\DAL_QLCD.csproj|solutionrelative:dal_qlcd\\dal_truonghoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B3AC80F2-06EB-47CA-AFBC-C3C76FA1896B}|BUS_QLCD\\BUS_QLCD.csproj|d:\\daihoc\\hk7\\nosql\\da\\qlcd\\qlcd\\bus_qlcd\\bus_truonghoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B3AC80F2-06EB-47CA-AFBC-C3C76FA1896B}|BUS_QLCD\\BUS_QLCD.csproj|solutionrelative:bus_qlcd\\bus_truonghoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{972FE095-A182-4FD5-A020-45DF943507F5}|QLCongDan\\QLCongDan.csproj|d:\\daihoc\\hk7\\nosql\\da\\qlcd\\qlcd\\qlcongdan\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -38,8 +22,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmMain.cs",
+              "DocumentMoniker": "D:\\DaiHoc\\HK7\\NoSQL\\DA\\QLCD\\QLCD\\QLCongDan\\frmMain.cs",
+              "RelativeDocumentMoniker": "QLCongDan\\frmMain.cs",
+              "ToolTip": "D:\\DaiHoc\\HK7\\NoSQL\\DA\\QLCD\\QLCD\\QLCongDan\\frmMain.cs",
+              "RelativeToolTip": "QLCongDan\\frmMain.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACgAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T08:08:31.945Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
@@ -49,85 +46,21 @@
               "ToolTip": "D:\\DaiHoc\\HK7\\NoSQL\\DA\\QLCD\\QLCD\\QLCongDan\\frmMain.cs [Design]",
               "RelativeToolTip": "QLCongDan\\frmMain.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-15T20:15:32.189Z",
+              "WhenOpened": "2024-10-16T08:08:30.035Z",
               "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Connection_Neo4J.cs",
-              "DocumentMoniker": "D:\\DaiHoc\\HK7\\NoSQL\\DA\\QLCD\\QLCD\\DAL_QLCD\\Connection_Neo4J.cs",
-              "RelativeDocumentMoniker": "DAL_QLCD\\Connection_Neo4J.cs",
-              "ToolTip": "D:\\DaiHoc\\HK7\\NoSQL\\DA\\QLCD\\QLCD\\DAL_QLCD\\Connection_Neo4J.cs",
-              "RelativeToolTip": "DAL_QLCD\\Connection_Neo4J.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAiwDgAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-15T19:56:24.549Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "DAL_TruongHoc.cs",
-              "DocumentMoniker": "D:\\DaiHoc\\HK7\\NoSQL\\DA\\QLCD\\QLCD\\DAL_QLCD\\DAL_TruongHoc.cs",
-              "RelativeDocumentMoniker": "DAL_QLCD\\DAL_TruongHoc.cs",
-              "ToolTip": "D:\\DaiHoc\\HK7\\NoSQL\\DA\\QLCD\\QLCD\\DAL_QLCD\\DAL_TruongHoc.cs",
-              "RelativeToolTip": "DAL_QLCD\\DAL_TruongHoc.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAowBkAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-15T19:59:14.246Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "BUS_TruongHoc.cs",
-              "DocumentMoniker": "D:\\DaiHoc\\HK7\\NoSQL\\DA\\QLCD\\QLCD\\BUS_QLCD\\BUS_TruongHoc.cs",
-              "RelativeDocumentMoniker": "BUS_QLCD\\BUS_TruongHoc.cs",
-              "ToolTip": "D:\\DaiHoc\\HK7\\NoSQL\\DA\\QLCD\\QLCD\\BUS_QLCD\\BUS_TruongHoc.cs",
-              "RelativeToolTip": "BUS_QLCD\\BUS_TruongHoc.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAowA4AAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-15T19:59:02.478Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\DaiHoc\\HK7\\NoSQL\\DA\\QLCD\\QLCD\\QLCongDan\\Program.cs",
               "RelativeDocumentMoniker": "QLCongDan\\Program.cs",
               "ToolTip": "D:\\DaiHoc\\HK7\\NoSQL\\DA\\QLCD\\QLCD\\QLCongDan\\Program.cs",
               "RelativeToolTip": "QLCongDan\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAsAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-15T19:55:37.925Z",
+              "WhenOpened": "2024-10-16T07:02:11.007Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "frmTruongHoc.cs",
-              "DocumentMoniker": "D:\\DaiHoc\\HK7\\NoSQL\\DA\\QLCD\\QLCD\\QLCongDan\\frmTruongHoc.cs",
-              "RelativeDocumentMoniker": "QLCongDan\\frmTruongHoc.cs",
-              "ToolTip": "D:\\DaiHoc\\HK7\\NoSQL\\DA\\QLCD\\QLCD\\QLCongDan\\frmTruongHoc.cs",
-              "RelativeToolTip": "QLCongDan\\frmTruongHoc.cs",
-              "ViewState": "AgIAAB8AAAAAAAAAAAD4vzMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-15T19:55:07.861Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "frmTruongHoc.cs [Design]",
-              "DocumentMoniker": "D:\\DaiHoc\\HK7\\NoSQL\\DA\\QLCD\\QLCD\\QLCongDan\\frmTruongHoc.cs",
-              "RelativeDocumentMoniker": "QLCongDan\\frmTruongHoc.cs",
-              "ToolTip": "D:\\DaiHoc\\HK7\\NoSQL\\DA\\QLCD\\QLCD\\QLCongDan\\frmTruongHoc.cs [Design]",
-              "RelativeToolTip": "QLCongDan\\frmTruongHoc.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-15T19:53:25.311Z",
-              "EditorCaption": " [Design]"
             }
           ]
         }

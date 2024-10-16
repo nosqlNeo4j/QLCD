@@ -18,11 +18,16 @@ namespace QLCongDan
             InitializeComponent();
         }
 
-        private async void frmTruongHoc_Load(object sender, EventArgs e)
+        public async void reLoad()
         {
-            dgvData.Rows.Clear();
+            dgvData.DataSource = null;
             var schools = await bus.GetAllSchoolsAsync();
             dgvData.DataSource = schools;
+        }
+
+        private async void frmTruongHoc_Load(object sender, EventArgs e)
+        {
+            reLoad();
         }
 
         private void dgvData_CellClick(object sender, DataGridViewCellEventArgs e)
@@ -37,19 +42,32 @@ namespace QLCongDan
             }
         }
 
-        private void btnAdd_Click(object sender, EventArgs e)
+        private async void btnAdd_Click(object sender, EventArgs e)
         {
-
+            DTO_QLCD.DTO_TruongHoc ob = new DTO_QLCD.DTO_TruongHoc();
+            ob.Name = txtName.Text;
+            ob.Degree = txtDegree.Text;
+            ob.StartDate = Convert.ToDateTime(dtpStart.Value);
+            ob.EndDate = Convert.ToDateTime(dtpEnd.Value);
+            bus.AddSchoolAsync(ob);
+            reLoad();
         }
 
-        private void btnDelete_Click(object sender, EventArgs e)
+        private async void btnDelete_Click(object sender, EventArgs e)
         {
-
+            bus.DeleteSchoolAsync(txtName.Text);
+            reLoad();
         }
 
-        private void btnUpdate_Click(object sender, EventArgs e)
+        private async void btnUpdate_Click(object sender, EventArgs e)
         {
-
+            DTO_QLCD.DTO_TruongHoc ob = new DTO_QLCD.DTO_TruongHoc();
+            ob.Name = txtName.Text;
+            ob.Degree = txtDegree.Text;
+            ob.StartDate = Convert.ToDateTime(dtpStart.Value);
+            ob.EndDate = Convert.ToDateTime(dtpEnd.Value);
+            bus.UpdateSchoolAsync(ob);
+            reLoad();
         }
     }
 }

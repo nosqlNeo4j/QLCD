@@ -33,7 +33,11 @@ namespace QLCongDan
 
         private void địaChỉToolStripMenuItem_Click(object sender, EventArgs e)
         {
-
+            frmQL_Address fr = new frmQL_Address();
+            fr.MdiParent = this;
+            fr.FormBorderStyle = FormBorderStyle.None;
+            fr.Dock = DockStyle.Fill;
+            fr.Show();
         }
 
         private void trườngHọcToolStripMenuItem_Click(object sender, EventArgs e)
@@ -52,7 +56,11 @@ namespace QLCongDan
 
         private void mốiQuanHệToolStripMenuItem_Click(object sender, EventArgs e)
         {
-
+            frmQL_Mqh fr = new frmQL_Mqh();
+            fr.MdiParent = this;
+            fr.FormBorderStyle = FormBorderStyle.None;
+            fr.Dock = DockStyle.Fill;
+            fr.Show();
         }
     }
 }

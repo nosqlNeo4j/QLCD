@@ -17,30 +17,57 @@ namespace BUS_QLCD
             return await _jobDAL.GetAllJobsAsync();
         }
 
-        public void AddJob(DTO_CongViec job)
+        public async Task<List<DTO_CongViec>> GetAllJobs(string citizenId)
+        {
+            return await _jobDAL.GetAllJobs(citizenId);
+        }
+
+        public async Task<List<DTO_CongViec>> GetAllJobsM()
+        {
+            return await _jobDAL.GetAllJobsM(); // Gọi phương thức từ DAL
+        }
+
+        public async Task AddJob(DTO_CongViec job, string citizenId)
         {
             if (ValidateJob(job))
             {
-                _jobDAL.AddJob(job);
+                await _jobDAL.AddJob(job, citizenId);
+            }
+            else
+            {
+                throw new ArgumentException("Invalid job information.");
             }
         }
 
-        public void UpdateJob(DTO_CongViec job)
+        public async Task UpdateJob(DTO_CongViec job, string citizenId)
         {
             if (ValidateJob(job))
             {
-                _jobDAL.UpdateJob(job);
+                await _jobDAL.UpdateJob(job, citizenId);
+            }
+            else
+            {
+                throw new ArgumentException("Invalid job information.");
             }
         }
 
-        public void DeleteJob(string company)
+        public async Task DeleteJob(string company, string position, string citizenId)
         {
-            _jobDAL.DeleteJob(company);
+            await _jobDAL.DeleteJob(company, position, citizenId);
         }
 
         private bool ValidateJob(DTO_CongViec job)
         {
-            return !string.IsNullOrEmpty(job.Company) && job.Salary > 0;
+            return !string.IsNullOrEmpty(job.Company) && job.Salary > 0 && !string.IsNullOrEmpty(job.Position);
+        }
+        public async Task<List<DTO_CongViec>> SearchJobs(string citizenId, string company, string position)
+        {
+            // Gọi phương thức tìm kiếm trong DAL
+            return await _jobDAL.SearchJobs(citizenId, company, position);
+        }
+        public async Task<bool> CheckDuplicateJob(string company, string position, string citizenId)
+        {
+            return await _jobDAL.CheckDuplicateJob(company, position, citizenId);
         }
     }
 }

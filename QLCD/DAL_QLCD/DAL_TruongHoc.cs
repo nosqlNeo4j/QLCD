@@ -23,7 +23,7 @@ namespace DAL_QLCD
         {
             List<DTO_TruongHoc> schools = new List<DTO_TruongHoc>();
             string query = "MATCH (s:School) RETURN s.name AS Name, s.start_date AS StartDate, s.end_date AS EndDate, s.degree AS Degree";
-            var resultTable = await neo.ExecuteQueryAsync(query);
+            var resultTable = await neo.ExecuteQueryTruongHocAsync(query);
             foreach (DataRow row in resultTable.Rows)
             {
                 DTO_TruongHoc school = new DTO_TruongHoc
@@ -48,7 +48,7 @@ namespace DAL_QLCD
             degree: '{school.Degree}'
             }})";
 
-            await neo.ExecuteQueryAsync(query);
+            await neo.ExecuteQueryTruongHocAsync(query);
         }
 
         public async Task UpdateSchoolAsync(DTO_TruongHoc school)
@@ -59,7 +59,7 @@ namespace DAL_QLCD
                 s.end_date = '{school.EndDate:yyyy-MM-dd}',
                 s.degree = '{school.Degree}'";
 
-            await neo.ExecuteQueryAsync(query);
+            await neo.ExecuteQueryTruongHocAsync(query);
         }
 
         public async Task DeleteSchoolAsync(string name)
@@ -68,7 +68,7 @@ namespace DAL_QLCD
             MATCH (s:School {{ name: '{name}' }})
             DETACH DELETE s";
 
-            await neo.ExecuteQueryAsync(query);
+            await neo.ExecuteQueryTruongHocAsync(query);
         }
     }
 }

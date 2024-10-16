@@ -1,5 +1,6 @@
 ﻿using Neo4j.Driver;
 using System;
+using System.Collections.Generic;
 using System.Data;
 using System.Threading.Tasks;
 
@@ -40,7 +41,7 @@ namespace DAL_QLCD
             _driver?.Dispose();
         }
 
-        public async Task<DataTable> ExecuteQueryAsync(string query)
+        public async Task<DataTable> ExecuteQueryTruongHocAsync(string query)
         {
             var dataTable = new DataTable();
             dataTable.Columns.Add("Name");
@@ -179,6 +180,42 @@ namespace DAL_QLCD
 
             return dataTable;
         }
+        public async Task<DataTable> ExecuteQueryAsync(string query, List<string> columns)
+        {
+            var dataTable = new DataTable();
+
+            // Tạo các cột dựa trên danh sách truyền vào
+            foreach (var column in columns)
+            {
+                dataTable.Columns.Add(column);
+            }
+
+            try
+            {
+                var result = await _session.RunAsync(query);
+                var records = await result.ToListAsync();
+
+                foreach (var record in records)
+                {
+                    var row = dataTable.NewRow();
+                    foreach (var column in columns)
+                    {
+                        if (record.ContainsKey(column))
+                        {
+                            row[column] = record[column].As<object>(); // Sử dụng As<object>() để linh hoạt với kiểu dữ liệu
+                        }
+                    }
+                    dataTable.Rows.Add(row);
+                }
+            }
+            catch (Exception ex)
+            {
+                Console.WriteLine($"Query execution failed: {ex.Message}");
+            }
+
+            return dataTable;
+        }
+
 
         public void Dispose()
         {

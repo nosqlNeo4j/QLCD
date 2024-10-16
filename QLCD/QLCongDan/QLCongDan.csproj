@@ -90,6 +90,18 @@
     <Compile Include="frmMain.Designer.cs">
       <DependentUpon>frmMain.cs</DependentUpon>
     </Compile>
+    <Compile Include="frmQL_Address.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmQL_Address.designer.cs">
+      <DependentUpon>frmQL_Address.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmQL_Mqh.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmQL_Mqh.designer.cs">
+      <DependentUpon>frmQL_Mqh.cs</DependentUpon>
+    </Compile>
     <Compile Include="frmThongKe.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -107,6 +119,12 @@
     <Compile Include="WordExport.cs" />
     <EmbeddedResource Include="frmMain.resx">
       <DependentUpon>frmMain.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmQL_Address.resx">
+      <DependentUpon>frmQL_Address.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmQL_Mqh.resx">
+      <DependentUpon>frmQL_Mqh.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="frmThongKe.resx">
       <DependentUpon>frmThongKe.cs</DependentUpon>

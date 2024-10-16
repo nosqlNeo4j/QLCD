@@ -62,3 +62,35 @@ C:\Users\HP\OneDrive\Máy tính\Do_an_NoSql_Nhom13\QLCD\QLCD\BUS_QLCD\obj\Debug\
 C:\Users\HP\OneDrive\Máy tính\Do_an_NoSql_Nhom13\QLCD\QLCD\BUS_QLCD\obj\Debug\BUS_QLCD.csproj.CopyComplete
 C:\Users\HP\OneDrive\Máy tính\Do_an_NoSql_Nhom13\QLCD\QLCD\BUS_QLCD\obj\Debug\BUS_QLCD.dll
 C:\Users\HP\OneDrive\Máy tính\Do_an_NoSql_Nhom13\QLCD\QLCD\BUS_QLCD\obj\Debug\BUS_QLCD.pdb
+C:\Users\Thanh Vi\Desktop\Thư mục mới\QLCD\BUS_QLCD\bin\Debug\BUS_QLCD.dll.config
+C:\Users\Thanh Vi\Desktop\Thư mục mới\QLCD\BUS_QLCD\bin\Debug\BUS_QLCD.dll
+C:\Users\Thanh Vi\Desktop\Thư mục mới\QLCD\BUS_QLCD\bin\Debug\BUS_QLCD.pdb
+C:\Users\Thanh Vi\Desktop\Thư mục mới\QLCD\BUS_QLCD\bin\Debug\DAL_QLCD.dll
+C:\Users\Thanh Vi\Desktop\Thư mục mới\QLCD\BUS_QLCD\bin\Debug\DTO_QLCD.dll
+C:\Users\Thanh Vi\Desktop\Thư mục mới\QLCD\BUS_QLCD\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Thanh Vi\Desktop\Thư mục mới\QLCD\BUS_QLCD\bin\Debug\Neo4j.Driver.dll
+C:\Users\Thanh Vi\Desktop\Thư mục mới\QLCD\BUS_QLCD\bin\Debug\System.Buffers.dll
+C:\Users\Thanh Vi\Desktop\Thư mục mới\QLCD\BUS_QLCD\bin\Debug\System.IO.Pipelines.dll
+C:\Users\Thanh Vi\Desktop\Thư mục mới\QLCD\BUS_QLCD\bin\Debug\System.Memory.dll
+C:\Users\Thanh Vi\Desktop\Thư mục mới\QLCD\BUS_QLCD\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Thanh Vi\Desktop\Thư mục mới\QLCD\BUS_QLCD\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Thanh Vi\Desktop\Thư mục mới\QLCD\BUS_QLCD\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Thanh Vi\Desktop\Thư mục mới\QLCD\BUS_QLCD\bin\Debug\System.ValueTuple.dll
+C:\Users\Thanh Vi\Desktop\Thư mục mới\QLCD\BUS_QLCD\bin\Debug\DAL_QLCD.pdb
+C:\Users\Thanh Vi\Desktop\Thư mục mới\QLCD\BUS_QLCD\bin\Debug\DAL_QLCD.dll.config
+C:\Users\Thanh Vi\Desktop\Thư mục mới\QLCD\BUS_QLCD\bin\Debug\DTO_QLCD.pdb
+C:\Users\Thanh Vi\Desktop\Thư mục mới\QLCD\BUS_QLCD\bin\Debug\DTO_QLCD.dll.config
+C:\Users\Thanh Vi\Desktop\Thư mục mới\QLCD\BUS_QLCD\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Thanh Vi\Desktop\Thư mục mới\QLCD\BUS_QLCD\bin\Debug\Neo4j.Driver.xml
+C:\Users\Thanh Vi\Desktop\Thư mục mới\QLCD\BUS_QLCD\bin\Debug\System.Buffers.xml
+C:\Users\Thanh Vi\Desktop\Thư mục mới\QLCD\BUS_QLCD\bin\Debug\System.IO.Pipelines.xml
+C:\Users\Thanh Vi\Desktop\Thư mục mới\QLCD\BUS_QLCD\bin\Debug\System.Memory.xml
+C:\Users\Thanh Vi\Desktop\Thư mục mới\QLCD\BUS_QLCD\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Thanh Vi\Desktop\Thư mục mới\QLCD\BUS_QLCD\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Thanh Vi\Desktop\Thư mục mới\QLCD\BUS_QLCD\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Thanh Vi\Desktop\Thư mục mới\QLCD\BUS_QLCD\bin\Debug\System.ValueTuple.xml
+C:\Users\Thanh Vi\Desktop\Thư mục mới\QLCD\BUS_QLCD\obj\Debug\BUS_QLCD.csproj.AssemblyReference.cache
+C:\Users\Thanh Vi\Desktop\Thư mục mới\QLCD\BUS_QLCD\obj\Debug\BUS_QLCD.csproj.CoreCompileInputs.cache
+C:\Users\Thanh Vi\Desktop\Thư mục mới\QLCD\BUS_QLCD\obj\Debug\BUS_QLCD.csproj.Up2Date
+C:\Users\Thanh Vi\Desktop\Thư mục mới\QLCD\BUS_QLCD\obj\Debug\BUS_QLCD.dll
+C:\Users\Thanh Vi\Desktop\Thư mục mới\QLCD\BUS_QLCD\obj\Debug\BUS_QLCD.pdb

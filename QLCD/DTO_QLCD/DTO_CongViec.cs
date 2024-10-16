@@ -12,5 +12,6 @@ namespace DTO_QLCD
         public string Position { get; set; }
         public DateTime StartDate { get; set; }
         public decimal Salary { get; set; }
+        public string ID_CongDan { get; set; }
     }
 }

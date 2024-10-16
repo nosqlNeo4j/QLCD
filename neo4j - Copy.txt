@@ -1,0 +1,98 @@
+// Tạo các công dân với thuộc tính cccd
+CREATE (a:Citizen {id: '001', name: 'Nguyen Van A', birthdate: '1990-01-01', gender: 'Male', phone: '0123456789', email: 'nva@gmail.com', nationality: 'Vietnamese', occupation: 'Engineer', cccd: '123456789012'});
+CREATE (b:Citizen {id: '002', name: 'Tran Thi B', birthdate: '1995-05-10', gender: 'Female', phone: '0987654321', email: 'ttb@gmail.com', nationality: 'Vietnamese', occupation: 'Doctor', cccd: '234567890123'});
+CREATE (c:Citizen {id: '003', name: 'Le Van C', birthdate: '1987-03-22', gender: 'Male', phone: '0932123456', email: 'lvc@gmail.com', nationality: 'Vietnamese', occupation: 'Teacher', cccd: '345678901234'});
+CREATE (d:Citizen {id: '004', name: 'Pham Thi D', birthdate: '2000-08-15', gender: 'Female', phone: '0978312456', email: 'ptd@gmail.com', nationality: 'Vietnamese', occupation: 'Student', cccd: '456789012345'});
+CREATE (e:Citizen {id: '005', name: 'Nguyen Thi E', birthdate: '1992-02-20', gender: 'Female', phone: '0912345678', email: 'nte@gmail.com', nationality: 'Vietnamese', occupation: 'Nurse', cccd: '567890123456'});
+CREATE (f:Citizen {id: '006', name: 'Tran Van F', birthdate: '1985-12-12', gender: 'Male', phone: '0901234567', email: 'tvf@gmail.com', nationality: 'Vietnamese', occupation: 'Manager', cccd: '678901234567'});
+
+// Tạo các địa chỉ
+CREATE (addr1:Address {street: '123 Le Loi', district: '1', city: 'HCM', country: 'Vietnam', postal_code: '700000'});
+CREATE (addr2:Address {street: '456 Hai Ba Trung', district: '3', city: 'HCM', country: 'Vietnam', postal_code: '700001'});
+CREATE (addr3:Address {street: '789 Dien Bien Phu', district: 'Binh Thanh', city: 'HCM', country: 'Vietnam', postal_code: '700002'});
+CREATE (addr4:Address {street: '101 Tran Hung Dao', district: '1', city: 'HCM', country: 'Vietnam', postal_code: '700003'});
+CREATE (addr5:Address {street: '202 Nguyen Thi Minh Khai', district: '3', city: 'HCM', country: 'Vietnam', postal_code: '700004'});
+
+// Tạo các công việc
+CREATE (job1:Job {company: 'ABC Corp', position: 'Engineer', start_date: '2015-05-01', salary: 50000});
+CREATE (job2:Job {company: 'XYZ Ltd', position: 'Manager', start_date: '2018-07-10', salary: 70000});
+CREATE (job3:Job {company: '123 Tech', position: 'Developer', start_date: '2020-01-15', salary: 60000});
+CREATE (job4:Job {company: 'HealthCare Inc', position: 'Nurse', start_date: '2019-06-01', salary: 40000});
+CREATE (job5:Job {company: 'Education Org', position: 'Teacher', start_date: '2016-01-01', salary: 45000});
+
+// Tạo các trường học
+CREATE (school1:School {name: 'ĐH Bách Khoa', start_date: '2008-09-01', end_date: '2012-06-01', degree: 'Bachelor of Engineering'});
+CREATE (school2:School {name: 'ĐH Kinh Tế', start_date: '2010-09-01', end_date: '2014-06-01', degree: 'Bachelor of Economics'});
+CREATE (school3:School {name: 'Cao đẳng Công Nghệ Thông Tin', start_date: '2016-09-01', end_date: '2019-06-01', degree: 'Diploma in IT'});
+CREATE (school4:School {name: 'Trường Trung Học Phổ Thông', start_date: '2005-09-01', end_date: '2008-06-01', degree: 'High School Diploma'});
+CREATE (school5:School {name: 'Trường Tiểu Học', start_date: '2000-09-01', end_date: '2005-06-01', degree: 'Elementary School'});
+
+// Kết nối công dân với địa chỉ
+MATCH (a:Citizen {name: 'Nguyen Van A'}), (addr1:Address {street: '123 Le Loi'})
+CREATE (a)-[:LIVES_AT]->(addr1);
+
+MATCH (b:Citizen {name: 'Tran Thi B'}), (addr2:Address {street: '456 Hai Ba Trung'})
+CREATE (b)-[:LIVES_AT]->(addr2);
+
+MATCH (c:Citizen {name: 'Le Van C'}), (addr3:Address {street: '789 Dien Bien Phu'})
+CREATE (c)-[:LIVES_AT]->(addr3);
+
+MATCH (d:Citizen {name: 'Pham Thi D'}), (addr1:Address {street: '123 Le Loi'})
+CREATE (d)-[:LIVES_AT]->(addr1);
+
+MATCH (e:Citizen {name: 'Nguyen Thi E'}), (addr4:Address {street: '101 Tran Hung Dao'})
+CREATE (e)-[:LIVES_AT]->(addr4);
+
+MATCH (f:Citizen {name: 'Tran Van F'}), (addr5:Address {street: '202 Nguyen Thi Minh Khai'})
+CREATE (f)-[:LIVES_AT]->(addr5);
+
+// Kết nối công dân với trường học
+MATCH (a:Citizen {name: 'Nguyen Van A'}), (school1:School {name: 'ĐH Bách Khoa'})
+CREATE (a)-[:STUDIED_AT]->(school1);
+
+MATCH (b:Citizen {name: 'Tran Thi B'}), (school2:School {name: 'ĐH Kinh Tế'})
+CREATE (b)-[:STUDIED_AT]->(school2);
+
+MATCH (c:Citizen {name: 'Le Van C'}), (school3:School {name: 'Cao đẳng Công Nghệ Thông Tin'})
+CREATE (c)-[:STUDIED_AT]->(school3);
+
+MATCH (d:Citizen {name: 'Pham Thi D'}), (school4:School {name: 'Trường Trung Học Phổ Thông'})
+CREATE (d)-[:STUDIED_AT]->(school4);
+
+MATCH (e:Citizen {name: 'Nguyen Thi E'}), (school5:School {name: 'Trường Tiểu Học'})
+CREATE (e)-[:STUDIED_AT]->(school5);
+
+// Kết nối công dân với công việc
+MATCH (a:Citizen {name: 'Nguyen Van A'}), (job1:Job {company: 'ABC Corp'})
+CREATE (a)-[:WORKS_AT]->(job1);
+
+MATCH (b:Citizen {name: 'Tran Thi B'}), (job2:Job {company: 'XYZ Ltd'})
+CREATE (b)-[:WORKS_AT]->(job2);
+
+MATCH (c:Citizen {name: 'Le Van C'}), (job3:Job {company: '123 Tech'})
+CREATE (c)-[:WORKS_AT]->(job3);
+
+MATCH (e:Citizen {name: 'Nguyen Thi E'}), (job4:Job {company: 'HealthCare Inc'})
+CREATE (e)-[:WORKS_AT]->(job4);
+
+MATCH (f:Citizen {name: 'Tran Van F'}), (job2:Job {company: 'Education Org'})
+CREATE (f)-[:WORKS_AT]->(job2);
+
+// Tạo mối quan hệ giữa các công dân
+MATCH (a:Citizen {name: 'Nguyen Van A'}), (d:Citizen {name: 'Pham Thi D'})
+CREATE (a)-[:PARENT_OF]->(d);
+
+MATCH (c:Citizen {name: 'Le Van C'}), (b:Citizen {name: 'Tran Thi B'})
+CREATE (c)-[:SIBLING_OF]->(b);
+
+MATCH (a:Citizen {name: 'Nguyen Van A'}), (c:Citizen {name: 'Le Van C'})
+CREATE (a)-[:FRIEND_OF]->(c);
+
+MATCH (b:Citizen {name: 'Tran Thi B'}), (d:Citizen {name: 'Pham Thi D'})
+CREATE (b)-[:FRIEND_OF]->(d);
+
+MATCH (e:Citizen {name: 'Nguyen Thi E'}), (a:Citizen {name: 'Nguyen Van A'})
+CREATE (e)-[:FRIEND_OF]->(a);
+
+MATCH (f:Citizen {name: 'Tran Van F'}), (b:Citizen {name: 'Tran Thi B'})
+CREATE (f)-[:FRIEND_OF]->(b);

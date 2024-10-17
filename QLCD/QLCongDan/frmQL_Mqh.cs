@@ -26,7 +26,7 @@ namespace QLCongDan
         }
         private void LoadEntityTypes()
         {
-            comboEntityA.Items.AddRange(new string[] { "Citizen", "Address", "Job", "School" });
+            comboEntityA.Items.AddRange(new string[] { "Citizen"});
             comboEntityB.Items.AddRange(new string[] { "Citizen", "Address", "Job", "School" });
 
             comboEntityA.SelectedIndexChanged += async (s, e) =>

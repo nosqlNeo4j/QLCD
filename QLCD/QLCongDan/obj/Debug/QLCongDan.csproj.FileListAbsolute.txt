@@ -128,3 +128,6 @@ C:\Users\Thanh Vi\Desktop\Thư mục mới\QLCD\QLCongDan\bin\Debug\System.Runt
 C:\Users\Thanh Vi\Desktop\Thư mục mới\QLCD\QLCongDan\bin\Debug\System.Threading.Tasks.Extensions.xml
 C:\Users\Thanh Vi\Desktop\Thư mục mới\QLCD\QLCongDan\bin\Debug\System.ValueTuple.xml
 C:\Users\Thanh Vi\Desktop\Thư mục mới\QLCD\QLCongDan\obj\Debug\QLCongDan.csproj.Up2Date
+C:\Users\HP\OneDrive\Máy tính\Do_an_NoSql_Nhom13\QLCD\QLCD\QLCongDan\obj\Debug\QLCongDan.AddCitizenForm.resources
+C:\Users\HP\OneDrive\Máy tính\Do_an_NoSql_Nhom13\QLCD\QLCD\QLCongDan\obj\Debug\QLCongDan.frmCongDan_CongViec.resources
+C:\Users\HP\OneDrive\Máy tính\Do_an_NoSql_Nhom13\QLCD\QLCD\QLCongDan\obj\Debug\QLCongDan.modifyCitizenForm.resources
